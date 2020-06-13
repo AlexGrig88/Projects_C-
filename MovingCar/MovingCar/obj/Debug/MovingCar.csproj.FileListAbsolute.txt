@@ -1,0 +1,6 @@
+C:\Users\UserGrig\source\repos\MovingCar\MovingCar\obj\Debug\MovingCar.csprojAssemblyReference.cache
+C:\Users\UserGrig\source\repos\MovingCar\MovingCar\bin\Debug\MovingCar.exe.config
+C:\Users\UserGrig\source\repos\MovingCar\MovingCar\bin\Debug\MovingCar.exe
+C:\Users\UserGrig\source\repos\MovingCar\MovingCar\bin\Debug\MovingCar.pdb
+C:\Users\UserGrig\source\repos\MovingCar\MovingCar\obj\Debug\MovingCar.exe
+C:\Users\UserGrig\source\repos\MovingCar\MovingCar\obj\Debug\MovingCar.pdb
