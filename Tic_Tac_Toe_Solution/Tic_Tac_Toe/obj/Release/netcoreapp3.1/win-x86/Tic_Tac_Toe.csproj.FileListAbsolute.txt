@@ -1,0 +1,10 @@
+C:\Users\UserGrig\source\repos\Tic_Tac_Toe_Solution\Tic_Tac_Toe\bin\Release\netcoreapp3.1\win-x86\Tic_Tac_Toe.exe
+C:\Users\UserGrig\source\repos\Tic_Tac_Toe_Solution\Tic_Tac_Toe\bin\Release\netcoreapp3.1\win-x86\Tic_Tac_Toe.deps.json
+C:\Users\UserGrig\source\repos\Tic_Tac_Toe_Solution\Tic_Tac_Toe\bin\Release\netcoreapp3.1\win-x86\Tic_Tac_Toe.runtimeconfig.json
+C:\Users\UserGrig\source\repos\Tic_Tac_Toe_Solution\Tic_Tac_Toe\bin\Release\netcoreapp3.1\win-x86\Tic_Tac_Toe.runtimeconfig.dev.json
+C:\Users\UserGrig\source\repos\Tic_Tac_Toe_Solution\Tic_Tac_Toe\bin\Release\netcoreapp3.1\win-x86\Tic_Tac_Toe.dll
+C:\Users\UserGrig\source\repos\Tic_Tac_Toe_Solution\Tic_Tac_Toe\bin\Release\netcoreapp3.1\win-x86\Tic_Tac_Toe.pdb
+C:\Users\UserGrig\source\repos\Tic_Tac_Toe_Solution\Tic_Tac_Toe\obj\Release\netcoreapp3.1\win-x86\Tic_Tac_Toe.AssemblyInfoInputs.cache
+C:\Users\UserGrig\source\repos\Tic_Tac_Toe_Solution\Tic_Tac_Toe\obj\Release\netcoreapp3.1\win-x86\Tic_Tac_Toe.AssemblyInfo.cs
+C:\Users\UserGrig\source\repos\Tic_Tac_Toe_Solution\Tic_Tac_Toe\obj\Release\netcoreapp3.1\win-x86\Tic_Tac_Toe.dll
+C:\Users\UserGrig\source\repos\Tic_Tac_Toe_Solution\Tic_Tac_Toe\obj\Release\netcoreapp3.1\win-x86\Tic_Tac_Toe.pdb
