@@ -1,0 +1,6 @@
+C:\Users\UserGrig\GitHubExport\Design_Patterns\Builder\bin\Debug\Builder.exe.config
+C:\Users\UserGrig\GitHubExport\Design_Patterns\Builder\bin\Debug\Builder.exe
+C:\Users\UserGrig\GitHubExport\Design_Patterns\Builder\bin\Debug\Builder.pdb
+C:\Users\UserGrig\GitHubExport\Design_Patterns\Builder\obj\Debug\Builder.csprojAssemblyReference.cache
+C:\Users\UserGrig\GitHubExport\Design_Patterns\Builder\obj\Debug\Builder.exe
+C:\Users\UserGrig\GitHubExport\Design_Patterns\Builder\obj\Debug\Builder.pdb
