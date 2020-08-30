@@ -1,0 +1,6 @@
+C:\Users\UserGrig\GitHubExport\Design_Patterns\Prototype\bin\Debug\Prototype.exe.config
+C:\Users\UserGrig\GitHubExport\Design_Patterns\Prototype\bin\Debug\Prototype.exe
+C:\Users\UserGrig\GitHubExport\Design_Patterns\Prototype\bin\Debug\Prototype.pdb
+C:\Users\UserGrig\GitHubExport\Design_Patterns\Prototype\obj\Debug\Prototype.csprojAssemblyReference.cache
+C:\Users\UserGrig\GitHubExport\Design_Patterns\Prototype\obj\Debug\Prototype.exe
+C:\Users\UserGrig\GitHubExport\Design_Patterns\Prototype\obj\Debug\Prototype.pdb

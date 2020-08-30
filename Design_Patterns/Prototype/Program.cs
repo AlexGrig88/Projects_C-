@@ -11,35 +11,26 @@ namespace Prototype
 {
     class Prototype
     {
-        public string Class { get; set; }
-        public string State { get; set; }
-
-        public Prototype Clone()
+        static void Main()
         {
-            return this.MemberwiseClone() as Prototype;
+            int x = -2;
+            int y = 10;
+            while (x < y)
+            {
+                x = x + 1;
+                if (x > 0)
+                {
+                    y -= 2;
+                }
+                else
+                {
+                    y -= 1;
+                }
+
+            }
+            Console.WriteLine(y + x*10);
+            Console.ReadLine();
         }
-    }
-    /// <summary>
-    /// /////////
-    /// </summary>
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            //Формируем Объект-Класс prototype, который будет являться
-            //прототипом для всех производных от него видов
-
-            Prototype prototype = new Prototype();
-            prototype.Class = "Биологическая система";
-            prototype.State = "Живая";
-
-            var Human = prototype.Clone();
-            Human.Class = "Человек";
-            Human.State += " Общие признаки человека";
-
-            var Man = Human.Clone();
-            Man.Class = "Мужчина";
-            Man.State += "Мужские признаки";
-        }
+    
     }
 }
